@@ -1,0 +1,6 @@
+[submodule "developers-team"]
+	path = developers-team
+	url = git@github.com:jon-grey/saas_web-stack_mutil-tenant_developers-team.git
+[submodule "infrastructure-management"]
+	path = infrastructure-management
+	url = git@github.com:jon-grey/saas_web-stack_mutil-tenant_infrastructure-management.git
